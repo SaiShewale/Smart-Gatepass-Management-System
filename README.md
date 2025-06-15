@@ -18,5 +18,3 @@ A web-based solution to manage employee and visitor gatepasses efficiently using
 2. Set up the backend and database
 3. Run the project on localhost or deploy online
 
-## 📄 License
-MIT
